@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I am BoonieX
 
-<!--
-**BoonieX/BoonieX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Semester 5 Projects
 
-Here are some ideas to get you started:
+### Mobile Monitoring Sawi Caisim🔹 
+Android Application, Endpoint for monitoring sawi caisim.  
+**Tech:** Flutter  
+[https://github.com/BoonieX/mobile_sawi](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Sawi Caisim Computer Vision  
+Directory of model, debug code, and production code for training and processing Image (Sawi Caisim).  
+**Tech:** Python  
+[https://github.com/BoonieX/model_sawi](#)
+
