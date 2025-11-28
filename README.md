@@ -2,13 +2,13 @@
 
 ## Semester 5 Projects
 
-### 📱 Mobile Monitoring Sawi Caisim 
+### ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) Mobile Monitoring Sawi Caisim 
 Android Application, Endpoint for monitoring sawi caisim.  
 **Tech:** Flutter  
 
 [Mobile Monitoring Sawi](https://github.com/BoonieX/model_sawi)
 
-### [ Computer Vision ] Sawi Caisim Computer Vision  
+### ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-AI%20Model-blue?style=flat) Sawi Caisim Computer Vision  
 Directory of model, debug code, and production code for training and processing Image (Sawi Caisim).  
 **Tech:** Python  
 
