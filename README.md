@@ -15,8 +15,7 @@ Directory of model, debug code, and production code for training and processing 
 
 ## GitHub Stats
 
-[![Boonie's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoonieX)](https://github.com/BoonieX)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BoonieX&layout=compact)
+[![Boonie's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoonieX&show_icons=true)](https://github.com/BoonieX)
 
 
 
