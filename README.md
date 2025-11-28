@@ -10,10 +10,12 @@ Android Application, Endpoint for monitoring sawi caisim.
 ### 🔹 Sawi Caisim Computer Vision  
 Directory of model, debug code, and production code for training and processing Image (Sawi Caisim).  
 **Tech:** Python  
+
 [https://github.com/BoonieX/model_sawi](#)
 
 ## GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BoonieX)](https://github.com/anuraghazra/github-readme-stats)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BoonieX&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reo&show_icons=true&r=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Reo&layout=compact&r=1)
+
 
