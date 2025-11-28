@@ -12,3 +12,7 @@ Directory of model, debug code, and production code for training and processing 
 **Tech:** Python  
 [https://github.com/BoonieX/model_sawi](#)
 
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BoonieX&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BoonieX&layout=compact)
